@@ -4,7 +4,7 @@ A fun and colorful **Candy Crush–style puzzle game** built using **HTML**, **C
 
 ## 🚀 Live Demo
 
-👉 [Play the Game Here](https://harshh-devv.github.io/Candy-Crush-Game/)
+👉 [Play the Game Here] : https://harshh-devv.github.io/Candy-Crush-Game/
 
 ## 🎮 Game Features
 
